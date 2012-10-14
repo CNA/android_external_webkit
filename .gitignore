@@ -1,2 +1,4 @@
 WebKitBuild/*
 WebCore/WebCore.xcodeproj/*
+
+.DS_Store
